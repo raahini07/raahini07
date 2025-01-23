@@ -24,12 +24,3 @@ SQL — Managing and querying data
 🐍 **Other**  
 Python — Automation, data analysis, and more  
 
-🌱 **Backend**  
-Node.js & Golang — server-side programming
-
-
-🗄️ **Database**  
-SQL - managing and querying data.
-
-🐍 **Other**  
-Python - automation, data analysis, and more.
