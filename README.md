@@ -9,17 +9,17 @@ Hey there, I'm Raahini! 👋
 ## 🛠️ My Skillset 
 
 🌐 **Frontend**  
-HTML — Structuring web pages  
-CSS — Styling with creativity  
-JavaScript — Adding interactivity  
-React.js — Building dynamic user interfaces  
+HTML — Structure 
+CSS — Style  
+JavaScript — Interactivity  
+React.js — Dynamic user interfaces  
 
 🌱 **Backend**  
-Node.js — Efficient server-side programming  
-Golang — Fast and scalable backend solutions  
+Node.js — Server-side programming  
+Golang — Cloud & Server-side applications
 
 🗄️ **Database**  
-SQL — Managing and querying data  
+SQL — Managing and querying data 
 
 🐍 **Other**  
 Python — Automation, data analysis, and more  
