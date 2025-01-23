@@ -9,7 +9,7 @@ Hey there, I'm Raahini! 👋
 ## 🛠️ My Skillset 
 
 🌐 **Frontend**  
-HTML — Structure 
+HTML — Structure  
 CSS — Style  
 JavaScript — Interactivity  
 React.js — Dynamic user interfaces  
