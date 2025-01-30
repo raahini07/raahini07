@@ -22,5 +22,5 @@ Golang — Cloud & Server-side applications
 SQL — Managing and querying data 
 
 🐍 **Other**  
-Python — Automation, data analysis, and more  
+Python — Automation to make life easier, data analysis, and more  
 
