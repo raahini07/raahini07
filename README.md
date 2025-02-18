@@ -10,7 +10,9 @@ CSS — Style
 JavaScript — Interactivity  
 React.js — Dynamic user interfaces   
 Node.js — Server-side programming  
-Golang — Cloud & Server-side applications
-SQL — Managing and querying data 
-Python — Automation to make life easier, data analysis, and more  
 
+Golang — Cloud & Server-side applications
+
+SQL — Managing and querying data 
+
+Python — Automation to make life easier, data analysis, and more 
