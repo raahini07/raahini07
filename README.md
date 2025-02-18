@@ -3,6 +3,7 @@ Hey there, I'm Raahini! 👋
 🌌 Aspiring aerospace engineer and coding enthusiast!  
 🚀 Passionate about solving problems and reaching for the stars. 
 
+Feel free to reach out at raahini07@gmail.com!
 
 ## My Skillset  
 HTML — Structure  
