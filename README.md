@@ -18,7 +18,3 @@ If you’re working on something cool or just want to connect, feel free to reac
 - **Golang** — Developing fast, efficient programs  
 - **SQL** — Organizing and querying data  
 - **Python** — Automating tasks and analyzing data
-
----
-
-Thanks for checking out my GitHub! 😊
