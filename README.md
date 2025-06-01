@@ -1,22 +1,24 @@
-# Hi! I’m Raahini 😄
+# Hey! I’m Raahini 👋
 
-I’m 16 and totally obsessed with space and coding! 🚀 Whether it’s building cool apps, learning new programming languages, or dreaming about exploring other planets, I’m always excited to dive in and create.
+I’m a 16-year-old student passionate about aerospace engineering and computer science. I’m always excited to learn new things, solve real-world problems through code, and explore how technology can make a difference.
 
-If you want to team up and make something awesome, just shoot me an email at **raahini07@gmail.com** — let’s build something great together!
+Lately, I’ve been focused on full-stack development and learning how to build responsive, interactive web apps. I'm especially interested in the intersection of software and space, and where that might lead in the future.
+
+If you’re working on something cool or just want to connect, feel free to reach out at **raahini07@gmail.com** — I’d love to chat!
 
 ---
 
 ## My Skillset
 
-- **HTML** — Laying out the structure of websites  
-- **CSS** — Making things look awesome and styled  
-- **JavaScript** — Adding cool interactive features  
-- **React.js** — Building dynamic and smooth user interfaces  
-- **Node.js** — Handling the backend and server stuff  
-- **Golang** — Creating fast and powerful cloud apps  
-- **SQL** — Managing data and databases  
-- **Python** — Automating tasks and digging into data
+- **HTML** — Structuring content for the web  
+- **CSS** — Styling layouts and making things look good  
+- **JavaScript** — Adding interactivity and functionality  
+- **React.js** — Building smooth, modern user interfaces  
+- **Node.js** — Writing application logic and connecting services  
+- **Golang** — Developing fast, efficient programs  
+- **SQL** — Organizing and querying data  
+- **Python** — Automating tasks and analyzing data
 
 ---
 
-Ready to learn, create, and have fun — hit me up anytime! 😄
+Thanks for checking out my GitHub! 😊
