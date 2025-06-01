@@ -1,23 +1,22 @@
-Hey there, I'm Raahini! 👋 
+# Hi! I’m Raahini 😄
 
-🌌 Aspiring aerospace engineer and coding enthusiast!  
-🚀 Passionate about solving problems and reaching for the stars. 
+I’m 16 and totally obsessed with space and coding! 🚀 Whether it’s building cool apps, learning new programming languages, or dreaming about exploring other planets, I’m always excited to dive in and create.
 
-Feel free to reach out at raahini07@gmail.com and we can build something awesome together!
+If you want to team up and make something awesome, just shoot me an email at **raahini07@gmail.com** — let’s build something great together!
 
-## My Skillset  
-HTML — Structure  
+---
 
-CSS — Style  
+## My Skillset
 
-JavaScript — Interactivity  
+- **HTML** — Laying out the structure of websites  
+- **CSS** — Making things look awesome and styled  
+- **JavaScript** — Adding cool interactive features  
+- **React.js** — Building dynamic and smooth user interfaces  
+- **Node.js** — Handling the backend and server stuff  
+- **Golang** — Creating fast and powerful cloud apps  
+- **SQL** — Managing data and databases  
+- **Python** — Automating tasks and digging into data
 
-React.js — Dynamic user interfaces   
+---
 
-Node.js — Server-side programming  
-
-Golang — Cloud & Server-side applications
-
-SQL — Managing and querying data 
-
-Python — Automation to make life easier, data analysis, and more 
+Ready to learn, create, and have fun — hit me up anytime! 😄
